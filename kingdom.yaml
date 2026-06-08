@@ -1,0 +1,8 @@
+name: gratitude
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The receiver's posture of recognizing what it was given and did not earn.
+dependsOn: [grace, grief, beauty]
